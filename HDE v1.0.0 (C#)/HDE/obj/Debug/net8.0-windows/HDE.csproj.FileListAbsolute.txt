@@ -1,0 +1,16 @@
+C:\Users\maste\source\repos\HDE\HDE\bin\Debug\net8.0-windows\HDE.exe
+C:\Users\maste\source\repos\HDE\HDE\bin\Debug\net8.0-windows\HDE.deps.json
+C:\Users\maste\source\repos\HDE\HDE\bin\Debug\net8.0-windows\HDE.runtimeconfig.json
+C:\Users\maste\source\repos\HDE\HDE\bin\Debug\net8.0-windows\HDE.dll
+C:\Users\maste\source\repos\HDE\HDE\bin\Debug\net8.0-windows\HDE.pdb
+C:\Users\maste\source\repos\HDE\HDE\obj\Debug\net8.0-windows\HDE.csproj.GenerateResource.cache
+C:\Users\maste\source\repos\HDE\HDE\obj\Debug\net8.0-windows\HDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\source\repos\HDE\HDE\obj\Debug\net8.0-windows\HDE.AssemblyInfoInputs.cache
+C:\Users\maste\source\repos\HDE\HDE\obj\Debug\net8.0-windows\HDE.AssemblyInfo.cs
+C:\Users\maste\source\repos\HDE\HDE\obj\Debug\net8.0-windows\HDE.csproj.CoreCompileInputs.cache
+C:\Users\maste\source\repos\HDE\HDE\obj\Debug\net8.0-windows\HDE.dll
+C:\Users\maste\source\repos\HDE\HDE\obj\Debug\net8.0-windows\refint\HDE.dll
+C:\Users\maste\source\repos\HDE\HDE\obj\Debug\net8.0-windows\HDE.pdb
+C:\Users\maste\source\repos\HDE\HDE\obj\Debug\net8.0-windows\HDE.genruntimeconfig.cache
+C:\Users\maste\source\repos\HDE\HDE\obj\Debug\net8.0-windows\ref\HDE.dll
+C:\Users\maste\source\repos\HDE\HDE\obj\Debug\net8.0-windows\HDE.execute.resources
